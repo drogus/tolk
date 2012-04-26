@@ -1,4 +1,3 @@
-require 'kaminari'
 require 'ya2yaml'
 require 'tolk/engine'
 require 'tolk/sync'
