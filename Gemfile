@@ -3,7 +3,7 @@ source "http://rubygems.org"
 #gem "rails", "3.1.0.beta1"
 gem 'rails',     :git => 'git://github.com/rails/rails.git'
 
-gem 'kaminari', :git => "https://github.com/amatsuda/kaminari.git"
+gem "kaminari"
 gem "ya2yaml"
 
 gem "capybara", :git => "https://github.com/jnicklas/capybara.git"
